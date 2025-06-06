@@ -25,7 +25,7 @@ import image from "../images/IMG-20191006-WA0083.jpg";
 const imageAltText = "Adult male standing in the hill mountain forest outskirts of a city, wearing a red, navy blue shirt and black pants, with a black backpack, looking at the camera with a smile on his face.";
 
 
-const Home = ({ name, title }) => {
+const Home = ({ name, title }) => { 
   return (
     <section id="home" className="min-height">
       <img className="background" src={image} alt="" />
