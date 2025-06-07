@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mountains-9618595_1280.webp";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "a person sitting in a office chair in front of desktop with books and a laptop on a desk, with a window in the background showing a cityscape with a colorful background";
 
 /**
  * Project list
